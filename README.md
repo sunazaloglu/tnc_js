@@ -87,4 +87,4 @@ netlify deploy --prod
 
 ## Ekran Görüntüsü
 
-![Todo App Ekran Görüntüsü](screenshots/todo-app-screenshot.png)
+![Todo App Ekran Görüntüsü](screenshots/ss.jpg)
