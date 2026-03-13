@@ -60,24 +60,6 @@ Uygulama [http://localhost:5173](http://localhost:5173) adresinde çalışacakt�
 ```bash
 npm run build
 ```
-
-## Netlify ile Yayına Alma
-
-1. Projeyi GitHub'a yükleyin (public repo)
-2. [Netlify](https://netlify.com) hesabına giriş yapın
-3. "Add new site" → "Import an existing project"
-4. GitHub reposunu bağlayın
-5. Build ayarları otomatik algılanacaktır (`netlify.toml` sayesinde)
-6. Deploy'a tıklayın
-
-Veya Netlify CLI ile:
-
-```bash
-npm install -g netlify-cli
-netlify login
-netlify deploy --prod
-```
-
 ## Teknolojiler
 
 - **React 18** - UI kütüphanesi
